@@ -1,0 +1,4 @@
+pymavlink>=2.4.30
+pyserial>=3.5
+websockets>=11.0
+requests>=2.31.0
